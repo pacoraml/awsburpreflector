@@ -5,7 +5,7 @@ Deploy lambdas, apigateway using websocket and HTTP and DynamoDB
 ## Usage
 
 ```
-git clone xxxx/terraform-ccncert
+git clone xxxx/terraform
 ```
 
 Blau
