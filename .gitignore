@@ -1,0 +1,7 @@
+.idea
+.terraform
+.DS_Store
+.history
+terraform.tfstate
+terraform.tfstate.*
+src/*.zip
