@@ -11,7 +11,7 @@ git clone xxxx/terraform-ccncert
 Blau
 
 ```
-cd terraform-ccncert
+cd terraform
 zip example.zip main.js
 ```
 
