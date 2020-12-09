@@ -1,4 +1,4 @@
-# CCN CERT Infra
+# Burp Reflector Infra
 
 Deploy lambdas, apigateway using websocket and HTTP and DynamoDB 
 
